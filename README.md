@@ -1,0 +1,2 @@
+# staticLoad-rebuild
+rebuild staticLoad
